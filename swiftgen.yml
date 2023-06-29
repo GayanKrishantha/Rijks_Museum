@@ -1,0 +1,18 @@
+input_dir: Rijksmuseum/
+output_dir: Rijksmuseum/Generated/
+
+strings:
+  inputs:
+    - Assets/en.lproj
+  outputs:
+    - templateName: structured-swift5
+      params:
+        publicAccess: true
+      output: Localization.swift
+      
+xcassets:
+  inputs:
+    - Assets/Assets.xcassets
+  outputs:
+    templatePath: stencils/images.stencil
+    output: Images.swift

@@ -1,0 +1,12 @@
+"label.not_available" = "NA";
+"label.art_collection" = "Art collection";
+"loading" = "Loading..";
+"first_maker" = "First Maker: ";
+"medium" = "Medium: ";
+"error.general" = "Bad Request";
+"error.noInternet" = "Check the Connection";
+"error.timeOut" = "Timeout";
+"error.notFound" = "No Result";
+"error.serverError" = "Internal Server Error";
+"error.title" = "Error!";
+"alert.cancel_button" = "Cancel";

@@ -1,0 +1,12 @@
+"label.not_available" = "NA";
+"label.art_collection" = "kunstcollectie";
+"loading" = "Bezig met laden..";
+"first_maker" = "First Maker: ";
+"medium" = "Medium: ";
+"error.general" = "Foute aanvraag";
+"error.noInternet" = "Controleer de verbinding";
+"error.timeOut" = "Timeout";
+"error.notFound" = "Geen resultaat";
+"error.serverError" = "Interne Server Fout";
+"error.title" = "Fout!";
+"alert.cancel_button" = "Annuleren";
